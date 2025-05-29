@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lavkush Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything, *I'll try my best to help.*
 
-- 📫 How to reach me *lavkushsharma993480@gmail.com*
+- 📫 How to reach me *ankitm66554433@gmail.com*
 
 - ⚡ Fun fact *I am funny😅*
 
